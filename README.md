@@ -1,4 +1,4 @@
-Basic lab of Machine learning
+Basic lab for Machine learning
 
 
 Setup on a local machine:
